@@ -1,0 +1,1 @@
+Create comprehensif and modular for hospital management system, from admision to patient checkout, everything about how to manage Healthcare Institution from Asset to Human Resource Management and accounting system!
